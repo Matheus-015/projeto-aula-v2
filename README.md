@@ -67,14 +67,6 @@ git clone https://github.com/Matheus-015/projeto-aula-v2.git
 
 2. Abra o arquivo index.html em seu navegador
 
-📊 Comparação com Versão Anterior
-Característica  |	Versão Inicial | Versão Evoluída
-Layout	        | Linear	       | Flexbox
-Metodologia     | CSS	Básica	   | BEM
-Responsividade	| Limitada	     | Avançada
-Tipografia	    | Sistema	       | Google Fonts
-Organização	    | Simples	       | Componentizada
-
 📚 Aprendizados Avançados
 - Display Flex e propriedades (justify-content, align-items)
 - Metodologia BEM para CSS escalável
