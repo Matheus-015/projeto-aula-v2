@@ -53,12 +53,6 @@ projeto-aula-v2/
 - Espaçamento consistente
 
 ## 🎯 Metodologia BEM Aplicada
-
-```css
-.bloque__elemento--modificador {
-  /* Estilos específicos */
-}
-
 Exemplos implementados:
 .apresentacao
 .apresentacao__conteudo
