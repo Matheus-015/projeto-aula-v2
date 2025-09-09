@@ -55,8 +55,8 @@ projeto-aula-v2/
 ## 🎯 Metodologia BEM Aplicada
 Exemplos implementados:
 - .apresentacao
--- .apresentacao__conteudo
---- .apresentacao__conteudo__titulo
+- .apresentacao__conteudo
+- .apresentacao__conteudo__titulo
 
 📸 Preview
 <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/a3daa909-9367-4458-b286-0a82b2fc99e0" />
