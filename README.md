@@ -26,6 +26,7 @@ Aplicar técnicas avançadas de:
 - **Metodologia BEM** - Organização de classes CSS
 
 ## 📁 Estrutura do Projeto
+```text
 projeto-aula-v2/
 ├── html/
 │ └── index.html
@@ -34,6 +35,7 @@ projeto-aula-v2/
 ├── img/
 │ └── imagem.png
 ├── README.md
+```
 
 ## ✨ Funcionalidades Avançadas
 
